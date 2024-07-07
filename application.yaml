@@ -1,5 +1,3 @@
-#MYSQL
 some:
-  key:value
-
+  key: Value
 
